@@ -2,6 +2,10 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm 3.18.31 Kernel Configuration
 #
+####XPERIENCE CONFIG####
+CONFIG_FB_MSM_MDSS_KCAL_CTRL=y
+
+###Common
 CONFIG_EARLY_IOREMAP=y
 CONFIG_LOCALVERSION="-XPerience-NPP25.137-33"
 CONFIG_AUDIT=y
